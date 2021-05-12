@@ -68,7 +68,9 @@
             <answers>
                 <A0>Samples
 Patients
-Patients can have one or more samples</A0>
+Car
+Patients can have one or more samples
+Patients can have zero or more cars</A0>
                 <A1 />
                 <A2 />
                 <A3 />
