@@ -125,7 +125,7 @@
         </synthetic>
     </scores>
     <thematic>
-        <filename>thematic.png</filename>
+        <filename>thematic.jpg</filename>
     </thematic>
     <abstract>
         <question>Please provide a brief abstract describing this dataset.</question>
@@ -151,7 +151,7 @@
         <question>Please entitle and provide a legend for each figure found in "./images/figures/".</question>
         <answer /></figures>
     <subsetAssociations>
-        <filename>datasetassociations.jpg</filename>
+        <filename>subsets.jpg</filename>
         <legend>
             <question>What is the legend for the figure describing how subsets are associated to one another?</question>
             <answer />
