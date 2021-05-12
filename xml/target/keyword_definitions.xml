@@ -8,7 +8,7 @@
     <Keyword_1>
       <Keyword>k1</Keyword>
       <Definition>nothing</Definition>
-      <Link />
+      <Link>www.dds.dk</Link>
     </Keyword_1>
     <Keyword_2>
       <Keyword />
@@ -20,5 +20,10 @@
       <Definition />
       <Link />
     </Keyword_3>
+    <Keyword_4>
+      <Keyword />
+      <Definition />
+      <Link />
+    </Keyword_4>
   </Keywords_Dataset>
 </root>
