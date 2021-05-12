@@ -140,11 +140,11 @@
     <research>
         <main>
             <question>Please state, in detail, the main hypothesis for which this dataset was created.</question>
-            <answer />
+            <answer>Do tooth brushihng improve oral heatlh</answer>
         </main>
         <secondary>
             <question>Please state, in detail, any other hypotheses which this dataset would be able to address.</question>
-            <answer />
+            <answer>Do blue cars drive faster than red cars</answer>
         </secondary>
     </research>
     <figures>
