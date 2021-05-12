@@ -34,8 +34,8 @@
     <Encoding>State whether the feature is encoded and what the mapping is.</Encoding>
   </Feature_Questions>
   <Subset_Feature_Dataset>
-    <Subset_57>
-      <ID>57</ID>
+    <Subset_1>
+      <ID>1</ID>
       <Name>non</Name>
       <LastUpdate />
       <Modality />
@@ -49,7 +49,7 @@
       <Features>
         <Feature_1>
           <ID>65</ID>
-          <Subset>57</Subset>
+          <Subset>1</Subset>
           <Introduction />
           <Name />
           <Values />
@@ -69,6 +69,6 @@
           <Encoding />
         </Feature_1>
       </Features>
-    </Subset_57>
+    </Subset_1>
   </Subset_Feature_Dataset>
 </root>
